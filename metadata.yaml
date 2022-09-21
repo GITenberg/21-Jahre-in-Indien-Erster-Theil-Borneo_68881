@@ -1,0 +1,26 @@
+_repo: 21-Jahre-in-Indien-Erster-Theil-Borneo_68881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Breitenstein, Heinrich
+    gutenberg_agent_id: '54995'
+    url: http://www.gutenberg.org/2009/agents/54995
+description: ''
+gutenberg_issued: '2022-08-31'
+identifiers:
+  gutenberg: '68881'
+language: de
+pgterms:marc904: https://www.e-rara.ch/zut/content/titleinfo/22405080
+pgterms:marc905: 20200705080359breitenste
+pgterms:marc906: '1899'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Zurich University (ETH Zürich))
+publication_note: Germany :Th. Grieben's Verlag,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '21 Jahre in Indien.: Erster Theil: Borneo.'
+url: http://www.gutenberg.org/ebooks/68881
